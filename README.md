@@ -1,6 +1,6 @@
 # os3m Target Testing
 
-**Update Alert** 
+** **Update Alert** ** 
 
 I tested the custom target, and found it to be way better than all the others.
 
@@ -92,7 +92,7 @@ The testing process has successfully characterized the response of the os3m syst
 
 For next steps I have designed and ordered what I hypothesize to be the optimum target shape. 
 
-![Send Cut Send Optimum Target Quote](hypothesized_optimum_target/send_cut_send_target_quote.png)
+![Send Cut Send Optimum Target Quote](./custom_target_v0/send_cut_send_target_quote.png)
 
 This design should allow the mouse to not be dependent on US currency for the target shape, and optimize the target response to be at a good sensing strength.
 
@@ -136,6 +136,8 @@ This target will be a major step forward for the capability of the system.
 The data collected could be used to add a linearization system to the code. 
 
 Future work could include characterizing how this target changes response at angles. 
+
+I am excited to try a control knob with this target design.
 
 ## Licensing
 
